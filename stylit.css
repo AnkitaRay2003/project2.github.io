@@ -52,6 +52,7 @@ input[type=submit]:hover{
 input[type=text],input[type=email],input[type=number],select,textarea{
     background-color: black;
     color: rgb(250, 247, 247);
+    border: 0px;
 }
 input[type=radio]{
     border: 3px;
